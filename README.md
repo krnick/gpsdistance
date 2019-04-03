@@ -1,12 +1,14 @@
 # GPS Distance
 
+# Install
 
+
+```bash
+$ pip install gpsdistance
+```
 
 ## Usage
 
-```bash
-pip install gpsdistance
-```
 
 ```python
 import gpsdistance
