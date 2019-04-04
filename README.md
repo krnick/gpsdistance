@@ -2,7 +2,6 @@
 
 # Install
 
-
 ```bash
 $ pip install gpsdistance
 ```
