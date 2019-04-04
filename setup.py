@@ -10,7 +10,7 @@ from setuptools import  setup, find_packages
 
 setup(
     name="gpsdistance",
-    version="0.0.3",
+    version="0.0.5",
     keywords=("distance","GPS"),
     description="GPS distance between 2D and 3D",
     long_description=long_description,
