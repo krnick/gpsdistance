@@ -1,5 +1,10 @@
 # GPS Distance
 
+ [![PyPI](https://img.shields.io/pypi/pyversions/gpsdistance.svg)](https://pypi.org/project/gpsdistance/)
+ ![PyPI](https://img.shields.io/pypi/wheel/gpsdistance.svg)
+ ![Downloads](https://img.shields.io/pypi/dd/gpsdistance.svg)
+ ![License](https://img.shields.io/pypi/l/gpsdistance.svg)
+
 # Install
 
 ```bash
