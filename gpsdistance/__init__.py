@@ -29,6 +29,8 @@ class gpsdistance():
 
 
         # 畢達哥拉斯
+        alt1 = float(alt1)
+        alt2 = float(alt2)
         alt_diff = alt2 - alt1
         _2distance = self.get_2distance(lat1,lon1,lat2,lon2)
         distance = sqrt((_2distance * _2distance) + (alt_diff * alt_diff))

@@ -10,19 +10,19 @@ from setuptools import  setup, find_packages
 
 setup(
     name="gpsdistance",
-    version="0.0.1",
-    keywords=("distance"),
+    version="0.0.3",
+    keywords=("distance","GPS"),
     description="GPS distance between 2D and 3D",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     license="MIT Licence",
-    url="https://github.com/krnick/geodistance",
+    url="https://github.com/krnick/gpsdistance",
     author="SONG,JUN-WEI",
     author_email="sungboss2004@gmail.com",
     packages=find_packages(),
-    include_package_data=True,
-    install_requires=["math"],
     classifiers=[
             "Programming Language :: Python :: 3",
-            "License :: OSI Approved :: MIT License"
-        ],
+            "License :: OSI Approved :: MIT License",
+            "Operating System :: OS Independent",
+    ],
 )
