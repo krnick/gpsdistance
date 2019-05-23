@@ -2,7 +2,7 @@
 
  [![PyPI](https://img.shields.io/pypi/pyversions/gpsdistance.svg)](https://pypi.org/project/gpsdistance/)
  ![PyPI](https://img.shields.io/pypi/wheel/gpsdistance.svg)
- ![Downloads](https://img.shields.io/pypi/dd/gpsdistance.svg)
+ ![Downloads](https://img.shields.io/pypi/dm/gpsdistance.svg?color=red)
  ![License](https://img.shields.io/pypi/l/gpsdistance.svg)
 
 # Install
